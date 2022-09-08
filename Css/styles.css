@@ -1,0 +1,40 @@
+* {
+    background-color: aquamarine;
+}
+
+
+.negro {
+    background-color:black;
+    height: 100px;
+    width: 100px ;
+}
+
+.blanco {
+    background-color:white;
+    height: 100px;
+    width: 100px;
+
+}
+.container {
+display: flex;
+}
+
+.container2 {
+display: flex;
+}
+
+.container3 {
+    display: flex;
+}
+.container4 {
+    display: flex;
+
+}
+.container5 {
+    display: flex;
+
+}
+.container6 {
+    display: flex;
+
+}
